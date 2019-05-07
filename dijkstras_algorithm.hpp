@@ -23,7 +23,7 @@ void dijkstra(std::pair<int, int> edges, weight_graph& wg) {
 
     double result = 0;
     int curr_node = -1;
-    double curr_dist = -1;
+    double curr_dist = -1.0;
     bool is_in = true;
     int cilus_count = 0;
     while (is_in) {
