@@ -1,0 +1,4 @@
+Adott egy kommunikációs hálózat. Jelölje p(u,v) az u és v pont közötti kommunikációs
+csatorna működőképességének valószínűségét. Az egyes csatornák működőképessége
+egymástól független. Adjuk meg két tetszőleges pont közt a legmegbízhatóbb kapcsolatot. (A
+független valószínűségek szorzódnak.)
